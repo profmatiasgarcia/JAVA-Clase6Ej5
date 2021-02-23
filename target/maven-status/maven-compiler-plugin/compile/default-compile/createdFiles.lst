@@ -1,0 +1,8 @@
+view/VConsultasAlumnos$1.class
+test/CrudTest.class
+view/VConsultasAlumnos.class
+connection/ConnectionDB.class
+model/Alumno.class
+idao/IAlumnoDao.class
+controller/ControllerAlumno.class
+dao/AlumnoDaoImpl.class
